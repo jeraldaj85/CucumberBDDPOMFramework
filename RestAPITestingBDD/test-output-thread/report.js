@@ -1,4 +1,0 @@
-$(document).ready(function() {
-CucumberHTML.timelineItems.pushArray([{"id":"286c6bd1-3b2b-498e-bcb5-db19f82c22e7","feature":"Insert product usnig Post api","scenario":"Validate post product api works correectly","start":1750582153003,"group":1,"content":"","tags":"","end":1750582154152,"className":"passed"},{"id":"d2af395f-c5f4-4dc1-929f-11215ca37f1a","feature":"Get all products from the api","scenario":"Verify the get api of the products","start":1750582150189,"group":1,"content":"","tags":"","end":1750582152031,"className":"passed"},{"id":"605acaf4-98af-4ae2-aa1c-5b64912c1296","feature":"Get all products from the api","scenario":"Verify the rate of the first products","start":1750582152038,"group":1,"content":"","tags":"","end":1750582152996,"className":"passed"}]);
-CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[#1,main,5,main]"}]);
-});
